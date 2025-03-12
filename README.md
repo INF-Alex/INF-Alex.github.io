@@ -1,10 +1,6 @@
-# INF-Alex.github.io
-
-My website！
-
 # 个人主页
 
-这是我的个人主页项目，使用 HTML 和 CSS 构建的响应式网站。
+这是我的个人主页项目，使用 HTML 和 CSS 构建的响应式网站。（现在还处于demo阶段）
 
 ## 功能特点
 
@@ -14,16 +10,9 @@ My website！
 - 项目展示
 - 社交媒体链接
 
-## 使用说明
-
-1. 替换 `images/avatar.jpg` 为你的个人头像
-2. 在 `index.html` 中修改个人信息
-3. 在 "项目展示" 部分添加你的项目
-4. 更新社交媒体链接
-
 ## 自定义
 
-你可以通过修改 `styles/main.css` 中的 CSS 变量来自定义网站的主题颜色：
+可以通过修改 `styles/main.css` 中的 CSS 变量来自定义网站的主题颜色：
 
 ```css
 :root {
@@ -34,7 +23,3 @@ My website！
     --section-bg: #f3f4f6;
 }
 ```
-
-## 部署
-
-将代码推送到 GitHub 仓库后，GitHub Pages 将自动部署你的网站。
